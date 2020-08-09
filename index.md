@@ -18,4 +18,10 @@ Our website may link to external sites that are not operated by us. Please be aw
 You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services. Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information.
 If you have any questions about how we handle user data and personal information, feel free to contact us. This policy is effective as of 1 June 2020.
 
+## Pick Local <img width="50" src="https://i.imgur.com/vHRDY5h.png"> 
+
+Pick Local should help you to download the images with one click!
+Use 'cmd + ;' to activate and click!
+
+[Download](https://chrome.google.com/webstore/detail/pick-local/nplodennkgeinenkelplnlkljjlcijgd)
 
