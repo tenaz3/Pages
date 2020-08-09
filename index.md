@@ -1,8 +1,8 @@
 # Ideas
 
-## Keep Me Alive
+## Keep Me Alive <img width="50" src="https://i.imgur.com/HxmUAJE.png"> 
 
-<img width="50" src="https://i.imgur.com/HxmUAJE.png"> Motivational messages in times of doubt.
+> Motivational messages in times of doubt.
 
 [<img width="100" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg">](https://apps.apple.com/us/app/id1526510231) 
 <br>
